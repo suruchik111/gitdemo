@@ -1,6 +1,7 @@
 package hello;
 
 #comment added
+#hotfix comment
 public class Product {
 	String category;
 	String name;
