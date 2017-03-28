@@ -2,6 +2,7 @@ package hello;
 
 #comment added
 #hotfix comment
+#added comment for JIRA-01
 public class Product {
 	String category;
 	String name;
